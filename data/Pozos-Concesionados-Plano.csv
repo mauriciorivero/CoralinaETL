@@ -1,24 +1,24 @@
-﻿ID_Interno,ID_Pozo,Tipo_Pozo,Cat_Coralina,Cota,Latitud,Longitud,Responsable,Fm_Acuifera,Observaciones
-1,P3,1,Comercial,19.790,12.570280,-81.709290,Juan Antonio González,Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-2,P4,1,Comercial,20.700,12.568240,-81.709890,Ligia Pallares ,Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-3,P6,1,Comercial,24.180,12.561050,-81.716380,Bent Llerena S. en C. S (Leroy Bent),Fm San Andres,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-4,P7,1,Comercial,31.940,12.528260,-81.726590,Wiliam Bent ,Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-8,P8,1,Comercial,26.940,12.585320,-81.701700,Aguasana 1 ,Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-5,P10,1,Comercial,35.930,12.568290,-81.709150,Postobón ,Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-6,P13,1,Comercial,21.620,12.581190,-81.698160,Halley,Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-7,P14,1,Comercial,22.990,12.581570,-81.697210,Sweet Water ,Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-9,P15,1,Comercial,33.350,12.543410,-81.725100,Camilo Ramirez (1) ,Fm San Andres,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-10,P15A,1,,36.590,,,,,Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
-11,P23,1,Hotelero,35.690,12.585630,-81.696350,Toné,Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Hotelero
-12,P25,1,Hotelero,30.320,12.538720,-81.709920,Sol Caribe Campo (1),Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Hotelero
-13,P27,1,Comercial,36.840,12.585500,-81.701430,Aguasana 2 ,Fm San Luis,En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
-18,P18,2,Comercial,6.550,12.579210,-81.716640,Aqua Works,Fm San Luis,En el archivo 'Pozos (Lista. Estados. Incump)2024.xls' se clasifica en lista como Hotelero. pero en atributo como Comercial
-20,P38,3,Hotelero,1.000,12.584770,-8169658.000000,Verde Mar -Ertur Limitada ,Fm San Luis,
-21,P39,3,Hotelero,,12.581670,-81.688600,Sea View,Fm San Luis,Sin información de Cota en 'Consolidado Pozos Concesionados_v1.xls'
-22,P49,3,Hotelero,2.000,12.580650,-81.689350,E. Bay Point,Fm San Luis,
-19,P52,2,,4.000,,,,,Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
-23,P71,3,Hotelero,0.850,12.581340,-81.690660,E. Villa del Mar,Fm San Luis,
-14,PDA,1,,5.770,,,,,Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
-15,PDB,1,,5.690,,,,,Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
-16,PDC,1,,5.650,,,,,Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
-17,PDD,1,Acueducto,5.680,12.577760,-81.718982,Pozos Desalinizadora Veolia (antes Proactiva),Fm San Luis,
+﻿ID_Interno;ID_Pozo;Tipo_Pozo;Cat_Coralina;Cota;Latitud;Longitud;Responsable;Fm_Acuifera;Observaciones
+1;PC3;1;Comercial;19.790;12.570.280;-81.709.290;Juan Antonio González;Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+2;PC4;1;Comercial;20.700;12.568.240;-81.709.890;Ligia Pallares ;Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+3;PC6;1;Comercial;24.180;12.561.050;-81.716.380;Bent Llerena S. en C. S (Leroy Bent);Fm San Andres;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+4;PC7;1;Comercial;31.940;12.528.260;-81.726.590;Wiliam Bent ;Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+8;PC8;1;Comercial;26.940;12.585.320;-81.701.700;Aguasana 1 ;Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+5;PC10;1;Comercial;35.930;12.568.290;-81.709.150;Postobón ;Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+6;PC13;1;Comercial;21.620;12.581.190;-81.698.160;Halley;Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+7;PC14;1;Comercial;22.990;12.581.570;-81.697.210;Sweet Water ;Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+9;PC15;1;Comercial;33.350;12.543.410;-81.725.100;Camilo Ramirez (1) ;Fm San Andres;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+10;PC15A;1;;36.590;;;;;Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
+11;PC23;1;Hotelero;35.690;12.585.630;-81.696.350;Toné;Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Hotelero
+12;PC25;1;Hotelero;30.320;12.538.720;-81.709.920;Sol Caribe Campo (1);Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Hotelero
+13;PC27;1;Comercial;36.840;12.585.500;-81.701.430;Aguasana 2 ;Fm San Luis;En 'Pozos (Lista. Estados. Incump)2024.xls' se categoriza como Comercial
+18;PC18;2;Comercial;6.550;12.579.210;-81.716.640;Aqua Works;Fm San Luis;En el archivo 'Pozos (Lista. Estados. Incump)2024.xls' se clasifica en lista como Hotelero. pero en atributo como Comercial
+20;PC38;3;Hotelero;1.000;12.584.770;-8.169.658.000.000;Verde Mar -Ertur Limitada ;Fm San Luis;
+21;PC39;3;Hotelero;;12.581.670;-81.688.600;Sea View;Fm San Luis;Sin información de Cota en 'Consolidado Pozos Concesionados_v1.xls'
+22;PC49;3;Hotelero;2.000;12.580.650;-81.689.350;E. Bay Point;Fm San Luis;
+19;PC52;2;;4.000;;;;;Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
+23;PC71;3;Hotelero;0.850;12.581.340;-81.690.660;E. Villa del Mar;Fm San Luis;
+14;PCDA;1;;5.770;;;;;Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
+15;PCDB;1;;5.690;;;;;Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
+16;PCDC;1;;5.650;;;;;Sin información en 'Pozos (Lista. Estados. Incump)2024.xls'
+17;PCDD;1;Acueducto;5.680;12.577.760;-81.718.982;Pozos Desalinizadora Veolia (antes Proactiva);Fm San Luis;
